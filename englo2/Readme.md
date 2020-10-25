@@ -4,4 +4,4 @@ some text
 
 ## local development
 
-1. open html and change
+1. open html and change~
